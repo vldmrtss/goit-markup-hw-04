@@ -226,6 +226,7 @@ body {
 }
 .customers-link:hover,
 .customers-link:focus {
+  border-color: var(--ocean);
   color: var(--ocean);
   cursor: pointer;
 }
