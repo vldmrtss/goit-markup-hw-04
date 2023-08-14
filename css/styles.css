@@ -406,6 +406,12 @@ body {
   gap: 48px 24px;
   list-style-type: none;
 }
+.portfolio-buttons-list {
+  list-style-type: none;
+}
+.portfolio-items-list {
+  list-style-type: none;
+}
 .item {
   flex-basis: calc((100% - 48px) / 3);
 }
